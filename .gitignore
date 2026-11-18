@@ -1,0 +1,22 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*~
+.history/
+
+# Local tooling and secrets
+node_modules/
+.env
+.env.*
+*.log
+.cache/
+
+# Temporary previews
+*.tmp
+*.temp
