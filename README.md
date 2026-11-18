@@ -296,22 +296,7 @@ Safari 上 `backdrop-filter` 需 `-webkit-` 前缀才能生效，缺失时仅按
 
 ---
 
-## 发布到 GitHub Pages
 
-仓库上传到 GitHub 后，进入 **Settings → Pages**，将 **Source** 设为 **Deploy from a branch**，选择 `main` 分支和 `/ (root)` 目录即可。项目无需构建，入口就是根目录的 `index.html`。
-
----
-
-## 参与贡献
-
-提交前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。涉及高频闪光或动画的改动，必须同时验证 `prefers-reduced-motion: reduce` 降级路径。
-
----
-
-## 灵感与参考
-
-CRT 扫描线美学源自上世纪终端机，故障艺术（Glitch Art）作为流派可参考 Rosa Menkman 的 *Glitch Study/Critical Mistake*；
-文本乱码与色散手法与常见的 CSS glitch 片段同源，但本项目的重点在**分阶段编排的时序设计**。
 
 ---
 
